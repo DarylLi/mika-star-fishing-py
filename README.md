@@ -2,7 +2,8 @@
 
 一个用于《星痕共鸣》游戏的自动化钓鱼辅助工具，使用 Python 和 PyAutoGUI 实现自动化操作。
 
-<img width="1803" height="1412" alt="G8BB4EJ 1YBU2`0SYI~Z_8J" src="https://github.com/user-attachments/assets/ad261db1-5fcd-459a-9009-35355b0ca555" />
+<img width="1803" height="1412" alt="G8BB4EJ 1YBU2`0SYI~Z_8J" src="https://github.com/user-attachments/assets/1dbdfd5e-ea27-4b80-b286-27fb97f65f5e" />
+
 
 
 ## 功能特性
